@@ -2,7 +2,7 @@
 
 ## Getting Started:
 * run the following commands: 
-    * `git clone FILL IN THIS URL`
+    * `git clone https://github.com/LeaskN/portfolio_2.0.git`
     * `cd portfolio_2.0`
     * `npm i`
     * `npm start`
