@@ -24,3 +24,4 @@
 * [❌] Create Contact page
 * [❌] Create Resume page
 * [❌] Have a single page-scrolling portfolio
+* [❌] Have a light and dark mode
