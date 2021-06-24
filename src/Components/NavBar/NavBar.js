@@ -3,14 +3,14 @@ import './NavBar.css';
 function NavBar(){
     return(
         <div className='navBar'>
-            <h1>Logo</h1>
-            <h1>Hello</h1>
-            <h1>Landing</h1>
-            <h1>About</h1>
-            <h1>Projects</h1>
-            <h1>Contact</h1>
-            <h1>Resume</h1>
-            <h1>light and dark</h1>
+            <a href='/'>Logo</a>
+            <a href='/'>Hello</a>
+            <a href='/'>Landing</a>
+            <a href='/'>About</a>
+            <a href='/'>Projects</a>
+            <a href='/'>Contact</a>
+            <a href='/'>Resume</a>
+            <a href='/'>light and dark</a>
         </div>
     )
 }
