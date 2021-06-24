@@ -4,7 +4,6 @@ function NavBar(){
     return(
         <div className='navBar'>
             <a href='/'>Logo</a>
-            <a href='/'>Hello</a>
             <a href='/'>Landing</a>
             <a href='/'>About</a>
             <a href='/'>Projects</a>
