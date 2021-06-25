@@ -16,12 +16,12 @@
 ## Tasks
 * [✅] Create app with `create-react-app`
 * [✅] Push up to github
-* [❌] Create Sticky Side-Nav
-* [❌] Utilize react-router 
+* [✅] Create Sticky Side-Nav
+* [✅] Utilize react-router 
 * [❌] Create Landing page
 * [❌] Create About Me page
 * [❌] Create Projects page
 * [❌] Create Contact page
 * [❌] Create Resume page
-* [❌] Have a single page-scrolling portfolio
+<!-- * [❌] Have a single page-scrolling portfolio -->
 * [❌] Have a light and dark mode
